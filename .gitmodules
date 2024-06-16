@@ -1,0 +1,6 @@
+[submodule "go"]
+	path = go
+	url = https://github.com/karapetianash/recSystemFrontend
+[submodule "python"]
+	path = python
+	url = https://github.com/karapetianash/recSystemBackend
